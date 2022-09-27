@@ -17,6 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://byeonggyu-shin.github.io/Bundling_react_practice/",
   "eslintConfig": {
     "extends": [
       "react-app",
