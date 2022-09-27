@@ -8,6 +8,7 @@
     "dev": "nodemon my-agora-states-server/app.js",
     "test": "jest"
   },
+  "homepage": "https://byeonggyu-shin.github.io/Bundling_react_practice/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/codestates-seb/fe-sprint-my-agora-states-server.git"
@@ -40,6 +41,7 @@
   "devDependencies": {
     "codestates-assignment-manager": "^1.8.0",
     "cross-env": "^7.0.3",
+    "gh-pages": "^4.0.0",
     "jest": "^26.6.3",
     "nodemon": "^2.0.16",
     "prettier": "^2.2.1",
